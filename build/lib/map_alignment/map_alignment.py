@@ -48,7 +48,7 @@ import skimage.transform
 import matplotlib.transforms
 import matplotlib.path as mpath
 
-import Polygon #, Polygon.IO
+import Polygon#, Polygon.IO
 
 import arrangement.arrangement as arr
 
